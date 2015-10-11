@@ -1,0 +1,1 @@
+This will have code related to my blog at adffunda.blogspot.com which is primarily to guide Oracle e-Business suite developers to gain expertise in ADF.
